@@ -10,7 +10,9 @@
 
 ## 🎞️ 시연 영상
 
-https://www.youtube.com/watch?v=TIb-DvcFkTQ
+### `이미지를 클릭하면 시연 영상 유튜브로 이동됩니다.`
+
+[![Video Label](http://img.youtube.com/vi/TIb-DvcFkTQ/0.jpg)](https://www.youtube.com/watch?v=TIb-DvcFkTQ&t=1s)
 <br/><br/>
 
 ## 🚀 프로젝트 인원 및 기간
