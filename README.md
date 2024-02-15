@@ -5,7 +5,7 @@
 
 ## 🌷 배포 사이트
 
-[![CatchRoom](https://img.shields.io/badge/CatchRoom-F0047F.svg?style=for-the-badge)](https://dev.dhlbrqe2v28e4.amplifyapp.com/home)
+[![CatchRoom](https://img.shields.io/badge/CatchRoom-F0047F.svg?style=for-the-badge)](https://dev.dac2k835awf4h.amplifyapp.com/home)
 <br/><br/>
 
 ## 🎞️ 시연 영상
